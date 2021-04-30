@@ -1,6 +1,6 @@
 pip==20.1.1
 pyaes==1.6.1
 pyasn1==0.4.8
-rsa==4.6
+rsa==4.7
 setuptools==41.2.0
 Telethon==1.14.0
